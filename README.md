@@ -4,23 +4,23 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ## Table of Contents
 
-✅ [Basic Programming](#basic-programming) 
+✅ [**Basic Programming**](#basic-programming) 
 
-✅ [Data Structure & Algorithm](#data-structure--algorithm) 
+✅ [**Data Structure & Algorithm**](#data-structure--algorithm) 
 
-✅ [Database Management Systems (DBMS)](#dbms) 
+✅ [**Database Management Systems (DBMS)**](#dbms) 
 
-✅ [Object-Oriented Programming (OOP)](#oop) 
+✅ [**Object-Oriented Programming (OOP)**](#oop) 
 
-✅ [Network](#network) 
+✅ [**Network**](#network) 
 
-✅ [Software Quality Assurance (SQA)](#sqa) 
+✅ [**Software Quality Assurance (SQA)**](#sqa) 
 
-✅ [Git](#git) 
+✅ [**Git**](#git) 
 
-✅ [HR Interview](#hr-interview) 
+✅ [**HR Interview**](#hr-interview) 
 
-✅ [Crash Course](#crash-course) 
+✅ [**Crash Course**](#crash-course) 
 
 ---
 
