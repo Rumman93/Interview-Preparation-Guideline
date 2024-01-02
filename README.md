@@ -64,7 +64,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [FreeCodeCamp: Object Oriented Programming (OOP) in C++](https://www.youtube.com/watch?v=wN0x9eZLix4&t=3237s) 🚀 ▶️
 
-### [CareerRide: OOPs with C++ Interview Questions & Answers](https://www.javatpoint.com/java-oops-concepts) 🚀 ▶️
+### [CareerRide: OOPs with C++ Interview Questions & Answers](https://www.youtube.com/watch?v=-d-Stdl9PfQ&t=438s) 🚀 ▶️
 
 ### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
