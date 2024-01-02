@@ -20,7 +20,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ✅ [**HR Interview**](#hr-interview) 
 
-✅ [**Operating System**](#operating-system) 
+✅ [**Interview Experience**](#interview-experience) 
 
 ---
 
@@ -80,12 +80,6 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ## SQA
 
-### [ISTQB Certified Tester Foundation Level](https://www.istqb.org/) 🚀
-
-### [Udemy: Software Testing](https://www.udemy.com/course/software-testing-for-beginners/) 🚀
-
-### [LinkedIn Learning: Introduction to Software Quality Assurance](https://www.linkedin.com/learning/software-quality-assurance-foundations/welcome) 🚀
-
 ### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
@@ -96,8 +90,6 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [Programming with Mosh: Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) 🚀 ▶️
 
-### [Edureka: Top Git Interview Questions](https://www.edureka.co/blog/interview-questions/git-interview-questions/) 🚀
-
 ### [Git-Scm: Pro Git Book](https://git-scm.com/book/en/v2) 🚀
 
 ### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
@@ -106,23 +98,17 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ## HR Interview
 
-### [GeeksforGeeks: HR Interview Preparation](https://www.geeksforgeeks.org/hr-interview-preparation/) 🚀
+### [CareerRide: HR Interview Question and Answers for Freshers](https://www.youtube.com/watch?v=715jNDMGm7I) 🚀 ▶️
 
-### [Indeed Career Guide: Common Interview Questions and Answers](https://www.indeed.com/career-advice/interviewing/interview-questions-and-answers) 🚀
-
-### [Glassdoor: Top HR Interview Questions and Answers](https://www.glassdoor.com/blog/top-hr-interview-questions-examples-and-tips/) 🚀
+### [CareerVidz: HR ROUND Interview Questions & ANSWERS!](https://www.youtube.com/watch?v=CwUBnhDVKTg) 🚀
 
 ### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
 
-## Operating System
+## Interview Experience
 
-### [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) 🚀
-
-### [Crash Course: Computer Science & Programming](https://www.udemy.com/course/crash-course-computer-science-and-programming/) 🚀
-
-### [Codecademy: Code Foundations](https://www.codecademy.com/learn/code-foundations) 🚀
+### [Tahanima: Recruitment Stories Blog ](https://tahanima.github.io/categories/) 🚀 ✍️
 
 ---
 
