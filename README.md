@@ -20,7 +20,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ✅ [**HR Interview**](#hr-interview) 
 
-✅ [**Crash Course**](#crash-course) 
+✅ [**Operating System**](#operating-system) 
 
 ---
 
@@ -32,41 +32,49 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ## Data Structure & Algorithm
 
-### [Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww&t=17s) 🚀
+### [CodeBagel: Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww&t=17s) 🚀 ▶️
 
-### [Top 7 Algorithms for Coding Interviews Explained SIMPLY](https://www.youtube.com/watch?v=kp3fCihUXEg) 🚀
+### [CodeBagel: Top 7 Algorithms for Coding Interviews Explained SIMPLY](https://www.youtube.com/watch?v=kp3fCihUXEg) 🚀 ▶️
+
+### [CareerRide: Data Structure Interview Questions for Freshers](https://www.youtube.com/watch?v=n24UcpMnTn0&t=18s) 🚀 ▶️
+
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
 
 ## DBMS
 
-### [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) 🚀
+### [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) 🚀 ▶️
 
-### [DBMS + SQL Interview Question (Edureka)](https://www.edureka.co/blog/interview-questions/dbms-interview-questions) 🚀
+### [W3School: SQL Excercise Playground ](https://www.w3schools.com/sql/sql_exercises.asp) 🚀 🌐
 
-### [DBMS Interview Question (Javatpoint)](https://www.javatpoint.com/dbms-interview-questions) 🚀
+### [CareerRide: DBMS Interview Questions & Answers](https://www.youtube.com/watch?v=xHJ8Gtm0ILg&t=1777s) 🚀 ▶️
 
-### [SQL Interview Question (Javatpoint)](https://www.javatpoint.com/sql-interview-questions) 🚀
+### [Prajjwal Sinha: Most Important DBMS Interview Questions](https://www.youtube.com/watch?v=8PUv18AI9CY) 🚀 ▶️
+
+### [HackerRank: SQL Challenges](https://www.hackerrank.com/domains/sql) 🚀 🌐
+
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
 
 ## OOP
 
-### [Udacity: Object-Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) 🚀
+### [Mosh: Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8) 🚀 ▶️
 
-### [Coursera: Object-Oriented Programming in Python](https://www.coursera.org/specializations/object-oriented-programming) 🚀
+### [FreeCodeCamp: Object Oriented Programming (OOP) in C++](https://www.youtube.com/watch?v=wN0x9eZLix4&t=3237s) 🚀 ▶️
 
-### [JavaTpoint: Java - Object-Oriented Programming Concepts](https://www.javatpoint.com/java-oops-concepts) 🚀
+### [CareerRide: OOPs with C++ Interview Questions & Answers](https://www.javatpoint.com/java-oops-concepts) 🚀 ▶️
+
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
 
 ## Network
 
-### [Cisco Networking Basics](https://www.netacad.com/courses/network-basics) 🚀
+### [Kunal Kushwaha: Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=11756s) 🚀
 
-### [Coursera: Computer Networks](https://www.coursera.org/learn/computer-networks) 🚀
-
-### [GeeksforGeeks: Computer Networks](https://www.geeksforgeeks.org/computer-network-tutorials/) 🚀
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
 
@@ -78,15 +86,21 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [LinkedIn Learning: Introduction to Software Quality Assurance](https://www.linkedin.com/learning/software-quality-assurance-foundations/welcome) 🚀
 
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+
 ---
 
 ## Git
 
-### [Youtube: Git & GitHub - Bangla Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4) 🚀
+### [Learn with Sumit: Git & GitHub - Bangla Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4) 🚀 ▶️
+
+### [Programming with Mosh: Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) 🚀 ▶️
 
 ### [Edureka: Top Git Interview Questions](https://www.edureka.co/blog/interview-questions/git-interview-questions/) 🚀
 
 ### [Git-Scm: Pro Git Book](https://git-scm.com/book/en/v2) 🚀
+
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
 
 ---
 
@@ -98,9 +112,11 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [Glassdoor: Top HR Interview Questions and Answers](https://www.glassdoor.com/blog/top-hr-interview-questions-examples-and-tips/) 🚀
 
+### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+
 ---
 
-## Crash Course
+## Operating System
 
 ### [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) 🚀
 
