@@ -82,11 +82,11 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ## Git
 
-### [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) 🚀
+### [Youtube: Git & GitHub - Bangla Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4) 🚀
 
-### [GitHub Learning Lab](https://lab.github.com/) 🚀
+### [Edureka: Top Git Interview Questions](https://www.edureka.co/blog/interview-questions/git-interview-questions/) 🚀
 
-### [Pro Git Book](https://git-scm.com/book/en/v2) 🚀
+### [Git-Scm: Pro Git Book](https://git-scm.com/book/en/v2) 🚀
 
 ---
 
