@@ -70,7 +70,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [CareerRide: OOPs with C++ Interview Questions & Answers](https://www.youtube.com/watch?v=-d-Stdl9PfQ&t=438s) 🚀 ▶️
 
-### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/1tLAngQw-ZwAQq4T79ZA5VU6NtwpxrcCA/view) 🚀 📕
 
 ---
 
