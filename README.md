@@ -14,7 +14,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ✅ [**Computer Networking**](#computer-networking) 
 
-✅ [**Software Quality Assurance (SQA)**](#sqa) 
+✅ [**Software Engineering**](#software-engineering) 
 
 ✅ [**Git**](#git) 
 
@@ -82,9 +82,15 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ---
 
-## SQA
+## Software Engineering
 
-### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+### [Daily Code Buffer: Learn SOLID Principles](https://www.youtube.com/watch?v=IFe6gdNUDAg) 🚀 ▶️
+
+### [Software Automation: Software Development Lifecycle](https://www.youtube.com/watch?v=i-QyW8D3ei0) 🚀 ▶️
+
+### [Godot Tutorials: DRY and KISS Principles](https://www.youtube.com/watch?v=i-hxbBNZziI) 🚀 ▶️
+
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/1mBB0vpG-DshyFJv8qC5LizeHZRcjLZkj/view) 🚀 📕
 
 ---
 
