@@ -120,13 +120,15 @@ Hello, I am **Ahmmed Jubayer Rumman**, a Computer Science Graduate from **CUET**
 
 For any inquiries or information, feel free to reach out to me. 
 
-<h3 align="left"><strong>Connect with me:</strong></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rumman93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rumman93" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rumman93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rumman93" height="30" width="40" /></a>
-</p>
+## Connect with me
 
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmmed Jubayer Rumman" height="30" width="40" />][linkedin]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rumman93" height="30" width="40" />][codeforces]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rumman93" height="30" width="40" />][leetcode]
+
+[linkedin]: https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/
+[codeforces]: https://codeforces.com/profile/Rumman93
+[leetcode]: https://www.leetcode.com/rumman93
 
 ---
 
