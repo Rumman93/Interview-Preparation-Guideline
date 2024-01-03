@@ -42,7 +42,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [CareerRide: Data Structure Interview Questions for Freshers](https://www.youtube.com/watch?v=n24UcpMnTn0&t=18s) 🚀 ▶️
 
-### [OneShot: All in One Solution ](https://drive.google.com/file/d/1eUpz2ZGFlJnaXPA0Oqu2MYMcm37Ug0_J/view) 🚀 📕
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/1NjlpGuK5mwLM-vxF4tpR_p3NoA9RFtAV/view) 🚀 📕
 
 ---
 
@@ -58,7 +58,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ### [HackerRank: SQL Challenges](https://www.hackerrank.com/domains/sql) 🚀 🌐
 
-### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/15wAmHLcw4vfBDk1vgJvadp1XZVMF_LYW/view) 🚀 📕
 
 ---
 
