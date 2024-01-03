@@ -24,6 +24,8 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ✅ [**Contributor**](#contributor) 
 
+✅ [**Connect With Me**](#connect-with-me) 
+
 ---
 
 ## Basic Programming
@@ -116,11 +118,13 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ## Contributor
 
-Hello, I am **Ahmmed Jubayer Rumman**, a Computer Science Graduate from **CUET** (Chittagong University of Engineering and Technology). Currently, I am working as an **Associate Software Engineer** at  [**Brain Station 23**](https://brainstation-23.com/).
+Hello, I am [**Ahmmed Jubayer Rumman**](https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/) , a Computer Science Graduate from **CUET** (Chittagong University of Engineering and Technology). Currently, I am working as an **Associate Software Engineer** at  [**Brain Station 23**](https://brainstation-23.com/).
 
 For any inquiries or information, feel free to reach out to me. 
 
-## Connect with me
+---
+
+## Connect With Me
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmmed Jubayer Rumman" height="30" width="40" />][linkedin]
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rumman93" height="30" width="40" />][codeforces]
