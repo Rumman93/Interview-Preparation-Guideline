@@ -12,7 +12,7 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ✅ [**Object-Oriented Programming (OOP)**](#oop) 
 
-✅ [**Network**](#network) 
+✅ [**Computer Networking**](#computer-networking) 
 
 ✅ [**Software Quality Assurance (SQA)**](#sqa) 
 
@@ -74,11 +74,11 @@ Welcome, CSE Freshers! Congratulations on embarking on your journey into the exc
 
 ---
 
-## Network
+## Computer Networking
 
 ### [Kunal Kushwaha: Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=11756s) 🚀
 
-### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/15V4wwIHop1Savr1JlE1fmNoOH9INdF2q/view) 🚀 📕
 
 ---
 
