@@ -102,7 +102,7 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ### [Git-Scm: Pro Git Book](https://git-scm.com/book/en/v2) 🚀
 
-### [OneShot: All in One Solution ](https://www.javatpoint.com/sql-interview-questions) 🚀 📕
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/1xkTfcVNoKhVenE6kgo3N7gtt7j_ILAo7/view) 🚀 📕
 
 ---
 
