@@ -20,6 +20,8 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ✅ [**HR Interview**](#hr-interview) 
 
+✅ [**CV**](#cv) 
+
 ✅ [**Interview Experience**](#interview-experience) 
 
 ✅ [**Contributor**](#contributor) 
@@ -113,6 +115,12 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 ### [CareerVidz: HR ROUND Interview Questions & ANSWERS!](https://www.youtube.com/watch?v=CwUBnhDVKTg) 🚀
 
 ### [Indiabix: HR Interview Questions and Answers ](https://www.indiabix.com/hr-interview/questions-and-answers/) 🚀 🌐
+
+---
+
+## CV
+
+### [Flowcv: CV Maker Website](https://flowcv.com/dashboard) 🚀 ▶️
 
 ---
 
