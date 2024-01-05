@@ -16,6 +16,8 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ✅ [**Software Engineering**](#software-engineering) 
 
+✅ [**SQA**](#sqa) 
+
 ✅ [**Git**](#git) 
 
 ✅ [**HR Interview**](#hr-interview) 
@@ -93,6 +95,19 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 ### [Godot Tutorials: DRY and KISS Principles](https://www.youtube.com/watch?v=i-hxbBNZziI) 🚀 ▶️
 
 ### [OneShot: All in One Solution ](https://drive.google.com/file/d/1mBB0vpG-DshyFJv8qC5LizeHZRcjLZkj/view) 🚀 📕
+
+---
+
+## SQA
+
+### [SDET-QA: A Complete Playlist ](https://www.youtube.com/playlist?list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9) 🚀 ▶️
+
+### [Freecodecamp: Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4) 🚀 ▶️
+
+### [Freecodecamp: Selenium Course for Beginners](https://www.youtube.com/watch?v=j7VZsCCnptM) 🚀 ▶️
+
+### [OneShot: All in One Solution ](https://drive.google.com/file/d/1au2htjpC5D9US5LkfWkmrzvAZoSZaZK8/view) 🚀 📕
+
 
 ---
 
