@@ -1,6 +1,6 @@
 # Interview Preparation Guideline
 
-Welcome, CSE Freshers! Congratulations on embarking on your journey into the exciting world of Computer Science and Engineering. This comprehensive interview preparation guide covers essential topics to help you excel in technical interviews. Let's dive in!
+Welcome, CSE Freshers! This interview preparation guide covers essential topics to help you excel in technical interviews. Let's dive in!
 
 ## Table of Contents
 
