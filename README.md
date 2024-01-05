@@ -108,6 +108,18 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ### [OneShot: All in One Solution ](https://drive.google.com/file/d/1au2htjpC5D9US5LkfWkmrzvAZoSZaZK8/view) 🚀 📕
 
+#### PRO Tips & Tricks by Efan Rahman
+
+| Suggestions                                | Recommendation  |
+| :----------------------------------------  | :--------- |
+| Knowledge of atleast one language     | **C++/Java/Python**.|
+| Basic problem solving skill                | **LeetCode Easy**.|
+| Hands on experience in API testing        | **Postman**.|
+| Basic idea of automation testing     | **Selenium**.|
+| Good Knowledge on SQL Query               | **W3School**.|
+| Website to follow     | **Artoftesting/GFG**.|
+
+
 
 ---
 
