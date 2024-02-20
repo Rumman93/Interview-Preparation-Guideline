@@ -104,6 +104,8 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ### [Freecodecamp: Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4) 🚀 ▶️
 
+### [Stack Learner: Pro Postman Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF) 🚀 ▶️
+
 ### [Freecodecamp: Selenium Course for Beginners](https://www.youtube.com/watch?v=j7VZsCCnptM) 🚀 ▶️
 
 ### [OneShot: All in One Solution ](https://drive.google.com/file/d/1au2htjpC5D9US5LkfWkmrzvAZoSZaZK8/view) 🚀 📕
