@@ -34,6 +34,8 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ## Basic Programming
 
+### [Competitive Programming Beginners Guideline](https://shahriar76.medium.com/competitive-programming-beginners-guideline-for-learning-topics-step-by-step-a4dcd478c15f) 🚀
+
 ### [NeetCode Practice Sheet](https://neetcode.io/practice) 🚀
 
 ---
@@ -60,7 +62,11 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 
 ### [Prajjwal Sinha: Most Important DBMS Interview Questions](https://www.youtube.com/watch?v=8PUv18AI9CY) 🚀 ▶️
 
+### [techTFQ: SQL Tutorial - Intermediate concepts](https://www.youtube.com/playlist?list=PLavw5C92dz9FD9XspliRM_HZM_jK7tkii) 🚀 ▶️
+
 ### [HackerRank: SQL Challenges](https://www.hackerrank.com/domains/sql) 🚀 🌐
+
+### [LeetCode: SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/) 🚀 🌐
 
 ### [OneShot: All in One Solution ](https://drive.google.com/file/d/15wAmHLcw4vfBDk1vgJvadp1XZVMF_LYW/view) 🚀 📕
 
@@ -156,6 +162,8 @@ Welcome, CSE Freshers! This interview preparation guide covers essential topics 
 ## Interview Experience
 
 ### [Tahanima: Recruitment Stories Blog ](https://tahanima.github.io/categories/) 🚀 ✍️
+
+### [Shahriar: Important Topics and Questions ](https://shahriar76.medium.com/important-topics-and-questions-for-bd-software-engineering-job-interviews-46e9338b21a) 🚀 ✍️
 
 ---
 
